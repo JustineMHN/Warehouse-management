@@ -1,0 +1,38 @@
+    [{
+    "id": "id",
+    "code": "Code",
+    "name": "Name",
+    "description": "Description",
+    "category": "Category",
+    "quantity": "Quantity",
+    "measure": "Measure",
+    "price": "Price",
+    "actions": "Actions"
+},{
+    "id": 2,
+    "code": "AB103",
+    "name": "Bottle of milk",
+    "description": "0.75 litre bottle\n Pasteurized \n should be \n kept in cold",
+    "category": 20,
+    "quantity": 23.0,
+    "measure": "pcs",
+    "price": "3.5"
+}, {
+    "id": 7,
+    "code": "5AB13",
+    "name": "potatoes",
+    "description": "by weight",
+    "category": 20,
+    "quantity": 11.4,
+    "measure": "kg",
+    "price": "1.5"
+}, {
+    "id": 11,
+    "code": "W513",
+    "name": "cigarettes",
+    "description": "not too healthy",
+    "category": 25,
+    "quantity": 12,
+    "measure": "pcs",
+    "price": "10.5"
+}]

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/views">
+        <file>MasterView.qml</file>
+        <file>AddProductView.qml</file>
+        <file>DashboardView.qml</file>
+        <file>EditProdutView.qml</file>
+        <file>FindProductView.qml</file>
+        <file>loginView.qml</file>
+        <file>RegisterView.qml</file>
+        <file>welcomView.qml</file>
+        <file>CategoryView.qml</file>
+    </qresource>
+</RCC>

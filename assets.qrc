@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>main.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>users.json</file>
+        <file>products.json</file>
+        <file>categories.json</file>
+    </qresource>
+</RCC>
