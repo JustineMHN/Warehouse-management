@@ -1,8 +1,8 @@
-# Document Technique - Système de Gestion d'Entrepôt
+# Système de Gestion d'Entrepôt
 
 ## Introduction
 
-Ce document technique examine le code source d'un système de gestion d'entrepôt développé en utilisant le framework Qt et le langage QML pour l'interface utilisateur. Le système est conçu pour gérer les utilisateurs, les produits, les catégories, et la navigation entre différentes vues.
+Ce document examine le code source d'un système de gestion d'entrepôt développé en utilisant le framework Qt et le langage QML pour l'interface utilisateur. Le système est conçu pour gérer les utilisateurs, les produits, les catégories, et la navigation entre différentes vues.
 
 ## Structure du Code
 
